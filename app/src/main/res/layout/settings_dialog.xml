@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/res_dialog_back"
+    android:background="@color/nocolor"
+    android:layout_gravity="top|right"
+    android:paddingTop="50dp">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:paddingLeft="10dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_singin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sing In"
+            android:fontFamily="@font/alegreya_sans_light"
+            android:textAllCaps="false"
+            android:paddingRight="30dp"
+            android:paddingLeft="30dp"
+            android:textSize="20sp"
+            android:textColor="@color/black95"
+            android:background="@drawable/btn_set_dialog">
+        </Button>
+
+    </LinearLayout>
+
+
+</LinearLayout>

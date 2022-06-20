@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable-v24/btn_task_pressed.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable-v24/button_black95_press_black50.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable-v24/name_text_style.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable-v24/style_btn_black50.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable-v24/style_btn_black80.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable-v24/style_btn_black95.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable-v24/style_btn_black99.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable-v24/style_btn_stroke_black50_press_white85.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable-v24/style_btn_stroke_black95_press_white85.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable-v24/style_btn_stroke_white85_press_black50.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable-v24/text_clickable.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable-v24/text_pressed.xml" value="0.23125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable-v24/text_style.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable-v24/var_btn.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable-v24/var_btn_pressed.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable-v24/var_btn_style.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable/btn_awful.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable/btn_bad.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable/btn_excellent.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable/btn_good.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable/btn_set_dialog.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable/btn_task.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable/btn_task_disabled.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable/button_stroke_black95_press_white85.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable/style_btn_for_set_pressed.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable/style_btn_for_set_stroke.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable/style_btn_stroke_black50_press_white85.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable/style_btn_stroke_black95.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable/style_btn_stroke_black95_press_white.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable/style_btn_stroke_black95_press_white85.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable/style_btn_task.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable/style_progress_bar.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable/var_btn_style_correct.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/drawable/var_btn_style_incorrect.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/advanced.xml" value="0.175" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/final1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/final2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/google_sign_in.xml" value="0.4" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/google_sing_in.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/intermediate.xml" value="0.175" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/item_page.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/lesson.xml" value="0.2" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/menu.xml" value="0.1" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/restore_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/results_dialog.xml" value="0.264" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/settings_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/slider_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/start_splash_screen.xml" value="0.19375" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/style_img.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/task1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/task1_1.xml" value="0.264" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/task1_2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/tasks.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/test.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/layout/upper.xml" value="0.175" />
+        <entry key="..\:/Users/Arina/AndroidStudioProjects/LingVels/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1265625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

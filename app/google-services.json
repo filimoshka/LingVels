@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "342151628935",
+    "firebase_url": "https://lingvels-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lingvels",
+    "storage_bucket": "lingvels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342151628935:android:5d07f014aaa4529d06d022",
+        "android_client_info": {
+          "package_name": "wisp.filimoshka.lingvels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342151628935-smv9v8d4gro77djsbe6mcagedbpg3oet.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wisp.filimoshka.lingvels",
+            "certificate_hash": "75368de16bbb248b04cced183434be20ef394c5b"
+          }
+        },
+        {
+          "client_id": "342151628935-2pd06r3e1r339jlrvmiv4jmkq4he6od6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfkRpT7SnHDfnG4NkMRjsRK1O02WwEIJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342151628935-2pd06r3e1r339jlrvmiv4jmkq4he6od6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
